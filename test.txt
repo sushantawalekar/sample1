@@ -3,3 +3,6 @@ modified file
 added
 ..
 new
+check
+file has been changed
+...
