@@ -1,1 +1,5 @@
 testing how git works
+modified file
+added
+..
+new
