@@ -6,3 +6,4 @@ new
 check
 file has been changed
 ...
+compare changes with brach1 and master
